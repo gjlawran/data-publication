@@ -61,16 +61,16 @@ There are four options for where data gets stored in the DataBC Program, each wi
    + non-spatial data can be downloaded
    + The BC Data Catalogue contains a record describing the dataset. 
 
-2. In the BC Data Catalogue Data Store, attached to the BC Data Catalogue record describing the dataset:
-   + datasets can be downloaded in their entirety only
+2. In the BC Data Catalogue, attached to the BC Data Catalogue metadata record describing the dataset:
+   + datasets can be downloaded in their entirety or provided via API
    + csv files can be viewed in spreadsheet mode
    + csv files with point data spatial coordinates can be viewed on a map
-   + there are limited security options (public or IDIR)
-   + files are limited in size to 150 MB.   (need to check this)
+   + only publically accessible data 
+   + files are limited in size to 150 MB.   
 
 3. On [_pub.data.gov.bc.ca_](https://pub.data.gov.bc.ca)
    + datasets can be downloaded in their entirety only
-   + there are limited security options (public only)
+   + only publically accessible data 
    + larger files are accommodated
    + The BC Data Catalogue contains a record describing the dataset. 
 
